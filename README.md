@@ -2,11 +2,7 @@
 <h1 align="center">Hi 👋, I'm Namira Aziz!</h1>
 <h3 align="center">A passionate girl with big dreams.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=namira-aziz&label=Profile%20views&color=0e75b6&style=flat" alt="namira-aziz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=namira-aziz" alt="namira-aziz" /></a> </p>
-<img align="center" alt="dream" width="400" src="Downloads">
-- 🔭 I’m currently working on **AI and Optical Character Recognition To search English,Telugu & Hindi words in PDF present in image format.**
+- 🔭 I’m currently working on **AI and Optical Character Recognition To search English Telugu and Hindi words in PDF present in image format.**
 
 - 🌱 I’m currently learning **html,css,image processing etc**
 
