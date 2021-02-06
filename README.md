@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Namira Aziz!</h1>
+<h1 align="center">Hi 👋, I'm Namira Aziz</h1>
 <h3 align="center">A passionate girl with big dreams.</h3>
 
-- 🔭 I’m currently working on **"AI and Optical Character Recognition To search English,Telugu and Hindi words in PDF present in image format.**
+- 🔭 I’m currently working on **"AI and Optical Character Recognition To search English,Telugu and Hindi words in PDF present in text as well as image format."**
 
 - 🌱 I’m currently learning **html,css,image processing etc**
 
