@@ -1,3 +1,4 @@
+![download](https://user-images.githubusercontent.com/78529272/107112051-b2085780-6822-11eb-8995-b53686cb8d89.png)
 
 <h1 align="center">Hi 👋, I'm Namira Aziz</h1>
 <h3 align="center">A passionate girl with big dreams.</h3>
