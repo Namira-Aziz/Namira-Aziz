@@ -2,12 +2,9 @@
 <h1 align="center">Hi 👋, I'm Namira Aziz</h1>
 <h3 align="center">A passionate girl with big dreams.</h3>
 
+![images 11](https://user-images.githubusercontent.com/78529272/107112268-5048ed00-6824-11eb-9c91-c989f081334c.png)
+![download](https://user-images.githubusercontent.com/78529272/107112270-5212b080-6824-11eb-8b0a-8d232c8c08bd.png)
 
-![images 11](https://user-images.githubusercontent.com/78529272/107112240-20014e80-6824-11eb-986b-9bf94d8f5c40.png)
-![8c4a631b813b685ef24f6bc25d9f0467](https://user-images.githubusercontent.com/78529272/107112243-22fc3f00-6824-11eb-9673-f4d5a6a32050.jpg)
-
-
-![images](https://user-images.githubusercontent.com/78529272/107112212-ed575600-6823-11eb-8e8f-223987c8fe03.png)
 
 - 🔭 I’m currently working on **"AI and Optical Character Recognition To search English,Telugu and Hindi words in PDF present in text as well as image format."**
 
