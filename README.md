@@ -1,7 +1,8 @@
-![download](https://user-images.githubusercontent.com/78529272/107112051-b2085780-6822-11eb-8995-b53686cb8d89.png)
 
 <h1 align="center">Hi 👋, I'm Namira Aziz</h1>
 <h3 align="center">A passionate girl with big dreams.</h3>
+
+![images (1)](https://user-images.githubusercontent.com/78529272/107112158-673b0f80-6823-11eb-8935-a6cd46700b71.jpg)
 
 - 🔭 I’m currently working on **"AI and Optical Character Recognition To search English,Telugu and Hindi words in PDF present in text as well as image format."**
 
